@@ -1,2 +1,2 @@
 # deeplearning
-mnist
+changed by caiji
